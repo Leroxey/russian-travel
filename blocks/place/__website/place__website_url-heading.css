@@ -1,0 +1,12 @@
+@charset "utf-8";
+.place__website_url-heading {
+	margin: 0 0 12px 0;
+	max-width: 456px;
+	font-size: 12px;
+	line-height: 12px;
+	font-weight: lighter;
+	font-style: normal;
+	color: #AAAAAA;
+	text-align: left;
+	letter-spacing: 0.2em;
+}
