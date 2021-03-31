@@ -35,6 +35,4 @@
 @import url("../blocks/footer/footer.css");
 @import url("../blocks/footer/__copyright/footer__copyright.css");
 @import url("../blocks/footer/__link/footer__link.css");
-@import url("../fonts/__bold/fonts__bold.css");
-@import url("../fonts/__light/fonts__light.css");
-@import url("../fonts/__medium/fonts__medium.css");
+@import url("../fonts/fonts.css");
