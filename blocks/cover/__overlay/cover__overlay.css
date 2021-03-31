@@ -1,0 +1,13 @@
+@charset "utf-8";
+.cover__overlay {
+	background-color: #2A2C2F;
+	opacity: 0.8;
+	max-width: 100%;
+	margin: 0 auto 0 auto;
+	grid-column: 1/1;
+	grid-row: 1/1;
+	z-index: 2;
+}
+.cover__overlay:hover {
+	opacity: 0.3;
+}
