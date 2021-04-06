@@ -1,0 +1,7 @@
+@charset "utf-8";
+.cover__background {
+	position: relative;
+	z-index: 0;
+	background: url("../../../images/__background.png") no-repeat center / contain;
+	max-width: 1184px;
+} 
