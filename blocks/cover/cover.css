@@ -1,12 +1,12 @@
 @charset "utf-8";
 .cover {
-	position:relative;
-	display:flex ;
+	position: relative;
+	display: flex;
 	justify-content: center;
 	align-items: center;
 	max-width: 100%;
 	height: calc(100vw / 1.6);
-	margin:92px auto 0 auto;
+	margin: 92px auto 0 auto;
 	object-fit: cover;
 	text-decoration: none;
 }
