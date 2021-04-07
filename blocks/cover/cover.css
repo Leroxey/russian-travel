@@ -1,0 +1,30 @@
+@charset "utf-8";
+.cover {
+	position:relative;
+	display:flex ;
+	justify-content: center;
+	align-items: center;
+	max-width: 100%;
+	height: calc(100vw / 1.6);
+	margin:92px auto 0 auto;
+	object-fit: cover;
+	text-decoration: none;
+	z-index: 0;
+	background: url("../../images/__background.png") no-repeat center / contain;
+}
+@media screen and (min-width: 1024px) {
+	.cover {
+		margin:92px auto 0 auto;
+		height:740px;
+	}
+}
+@media screen and (min-width: 768px) {
+	.cover {
+		margin:90px auto 0 auto;
+	}
+}
+@media screen and (min-width: 0px) {
+	.cover {
+		margin:66px auto 0 auto;
+	}
+}
