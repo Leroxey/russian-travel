@@ -1,9 +1,0 @@
-@charset "utf-8";
-.cover__text {
-	display: flex;
-	flex-direction: column;
-	z-index: 2;
-	margin: auto;
-	color: white;
-	text-align: center;
-}
