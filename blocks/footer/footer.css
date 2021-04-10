@@ -1,0 +1,26 @@
+@charset "utf-8";
+.footer {
+	max-width:1184px;
+	width:90%;
+	padding-bottom: 24px;
+	display: flex;
+	flex-direction: row;
+	margin: 92px auto 0px auto;
+}
+@media screen and (min-width: 1024px) {
+	.footer {
+		margin: 92px auto 0px auto;
+	}
+}
+@media screen and (min-width: 768px) {
+	.footer {
+		margin: 88px auto 0px auto;
+	}
+}
+@media screen and (max-width: 320px) {
+	.footer {
+		display: flex;
+		flex-direction: column;
+		margin: 64px auto 0px 16px;
+	}
+}
