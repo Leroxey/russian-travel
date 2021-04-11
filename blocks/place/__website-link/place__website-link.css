@@ -1,0 +1,13 @@
+@charset "utf-8";
+.place__website-link {
+	margin: 0 0 0 0;
+	max-width: 456px;
+	font-size: 18px;
+	line-height: 22px;
+	font-weight: normal;
+	color: white;
+	text-align: left;
+}
+.place__website-link:hover {
+	opacity: 0.8;
+}
