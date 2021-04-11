@@ -1,0 +1,14 @@
+@charset "utf-8";
+.place {
+	object-fit: cover;
+	max-width: 100%;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 48px 40px;
+}
+@media (min-width: 0px) and (max-width: 767px) {
+	.place {
+		gap: 32px;
+		grid-template-columns: 1fr;
+	}
+}

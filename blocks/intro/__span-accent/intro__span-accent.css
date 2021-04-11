@@ -1,0 +1,7 @@
+@charset "utf-8";
+.intro__span-accent{
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: lighter;
+	color: white;
+}
